@@ -1,2 +1,2 @@
-# LCW_Final_Project-
-LCW Web Sitesi Otomasyon Projesi
+# LCW_Final_Project
+## LCW Web Sitesi Otomasyon Projesi
